@@ -1,0 +1,35 @@
+body
+{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+section
+{
+    display: flex;
+}
+.half-width
+{
+    width: 50%;
+    padding-left: 10%;
+   
+}
+
+h1
+{
+    font-size: 50px;
+}
+.span-color
+{
+color: purple;
+}
+.half-width img
+{
+    width: 80%;
+}
+.read-button
+{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px 40px;
+    border-radius: 10px;
+}
